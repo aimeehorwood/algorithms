@@ -6,7 +6,7 @@ const isPalindrome = (string) => {
 
   const validCharacters = "abcdefghijklmnopqrstuvwxyz".split("");
 
-  let lettersArray = [];
+  const lettersArray = [];
 
   //remove all non-letter characters and push into Letters array
 
